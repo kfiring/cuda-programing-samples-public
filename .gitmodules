@@ -1,0 +1,9 @@
+[submodule "thirdparty/argparse"]
+	path = thirdparty/argparse
+	url = https://github.com/p-ranav/argparse.git
+[submodule "thirdparty/csv-parser"]
+	path = thirdparty/csv-parser
+	url = https://github.com/kfiring/csv-parser.git
+[submodule "thirdparty/tqdm.cpp"]
+	path = thirdparty/tqdm.cpp
+	url = https://github.com/kfiring/tqdm.cpp.git
